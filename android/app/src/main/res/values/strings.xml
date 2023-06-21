@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">PandaMusic</string>
+<string name="facebook_app_id">1024040008573021</string>
+<string name="fb_login_protocol_scheme">fb1024040008573021</string>
+<string name="facebook_client_token">b6326049b779c6a813c94c9c481d71c7</string>
+</resources>
